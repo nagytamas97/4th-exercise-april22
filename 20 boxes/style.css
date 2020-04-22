@@ -1,0 +1,29 @@
+html{
+
+    margin:auto;
+}
+.container{
+    border: 2px solid #4285f4;
+    height: 100px;
+    padding-left:20px;
+    padding-right:20px;
+    display:flex;
+    align-items: center;
+    justify-content:space-around;
+}
+h1{
+    background: black;
+    height:50px;
+    width:100px;
+    margin:10px;
+    jus
+}
+#blue-box{
+    background:#4285f4;
+}
+#purple-box{
+    background:purple;
+}
+#orange-background{
+    background:orange;
+}
